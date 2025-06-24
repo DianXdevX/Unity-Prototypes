@@ -1,9 +1,7 @@
 # Aprendendo-unity-
-estou fazendo a trilha junior progamer 
-Este repositório é um registro do meu aprendizado  no site oficial da Unity. Aqui, armazeno os projetos e códigos que desenvolvo ao longo do curso.
-e tambem  aprendo a utilizar o  git e git hub 
-os aequivos  se referem ao primero  projetinho basico  da movimentaçao  rotaçao e alguns comandos basicos 
+Este repositório serve como um arquivo para meus diversos projetos e testes desenvolvidos na Unity. Originalmente, o foco era registrar meu progresso na trilha Junior Pro-gamer, mas agora este espaço é dedicado a guardar ideias, protótipos e projetos que foram descontinuados.
 
-## 📚 O que estou aprendendo?  
-basico da unity 
-a usar este site (github )
+📚 O que você encontrará aqui?
+Projetos Inacabados: Ideias que comecei, mas que por algum motivo não foram levadas adiante.
+Testes e Protótipos: Pequenos experimentos com funcionalidades, mecânicas ou assets da Unity.
+Aprendizado Contínuo: Embora muitos projetos estejam "abandonados", eles representam etapas importantes do meu aprendizado e da minha exploração da engine e também do uso do Git e GitHub.
