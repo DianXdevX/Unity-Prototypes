@@ -1,4 +1,4 @@
-# Aprendendo-unity-
+# prototipos e   mini games  na  unity-
 Este repositório serve como um arquivo para meus diversos projetos e testes desenvolvidos na Unity. Originalmente, o foco era registrar meu progresso na trilha Junior Pro-gamer, mas agora este espaço é dedicado a guardar ideias, protótipos e projetos que foram descontinuados.
 
 📚 O que você encontrará aqui?
